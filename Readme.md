@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/Form1.cs) (VB: [Form1.vb](./VB/Form1.vb))
+* [GridViewGroupToolTipController.cs](./CS/GridViewGroupToolTipController.cs) (VB: [GridViewGroupToolTipController.vb](./VB/GridViewGroupToolTipController.vb))
+* [GroupRowSummaryHelper.cs](./CS/GroupRowSummaryHelper.cs) (VB: [GroupRowSummaryHelper.vb](./VB/GroupRowSummaryHelper.vb))
+<!-- default file list end -->
 # How to show tooltips for summaries displayed in a group row
 
 
